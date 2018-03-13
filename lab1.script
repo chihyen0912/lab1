@@ -1,0 +1,21 @@
+命令稿啟動於 2018年03月13日 下午 06:16:38
+]0;~
+[32m張智彥@LAPTOP-52J6CV83 [33m~[0m
+$ whoami;pwd
+張智彥
+/home/張智彥
+]0;~
+[32m張智彥@LAPTOP-52J6CV83 [33m~[0m
+$ git config -l
+user.email=alangood2@gmail.com
+user.name=chihyen0912
+]0;~
+[32m張智彥@LAPTOP-52J6CV83 [33m~[0m
+$ git cco[K[Klone https://github.com/chihiyen[K[K[K[K[Khyen/lan[Kb1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32m張智彥@LAPTOP-52J6CV83 [33m~[0m
+$ exit
+
+命令稿已於 2018年03月13日 下午 06:17:33
+ 完成
